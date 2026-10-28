@@ -1,0 +1,6 @@
+Step 3: install the course environment and start Jupyter
+From inside the python-course folder:
+
+uv sync
+uv run jupyter lab
+The first command downloads Python and the packages (once). The second opens JupyterLab in your browser. Open the notebooks folder and start with 00_Welcome_and_Setup.ipynb.
